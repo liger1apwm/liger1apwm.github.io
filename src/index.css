@@ -5,7 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(36, 30, 30)
+  background-image: url("./images/blur-backgroud.png");
+  /* background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(26, 11, 11)); */
+  /* backdrop-filter: blur(20px); */
+  
+  
 }
 
 code {
