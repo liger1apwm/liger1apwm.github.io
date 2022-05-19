@@ -38,3 +38,37 @@
     height: 100px;
     width: 170px;
 }
+
+.skill-card{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    flex-direction: row;
+    height: 500px;
+    width: 800px;
+    transform: translateX(400px) translateY(-150px);
+    
+}
+.skill-heading{
+    color: rgb(255, 255, 255);
+}
+
+.gif{
+    height: 220px;
+    width: 350px;
+    border-radius: 100px 100px;
+}
+
+.skill-paragraph{
+    color: rgb(255, 255, 255);
+}
+
+a{
+    color: rgb(216, 191, 122)
+}
+
+ul {
+    text-align: left;
+    margin-left: 0.75em;
+    list-style-position: inside;
+ }

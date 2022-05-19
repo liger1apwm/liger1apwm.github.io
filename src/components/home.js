@@ -17,7 +17,7 @@ const Home = () =>{
 
   return (
     <div>
-      <h3 className='home-heading'> Hey {userName} ,Welcome to Eric Aragundi Website</h3>
+      <h3 className='home-heading'> Hey {userName},Welcome to Eric Aragundi Website</h3>
       <div className="text-rotation-div">
         <TextRotation > </TextRotation>
       </div>
