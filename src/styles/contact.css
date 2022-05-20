@@ -1,0 +1,36 @@
+.form-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 50vh;
+}
+
+.text{
+    color: rgb(255, 255, 255);
+}
+
+.contact-heading{
+    color: rgb(255, 255, 255);
+    margin-bottom: 30px;
+}
+
+.text-area{
+    height: 60%;
+    width: 60%;
+}
+
+.input-area{
+    width: 30%;
+    margin-bottom: 15px;
+    /* opacity: .5; */
+}
+
+.input-area::-webkit-input-placeholder {
+    color: black; /*Change the placeholder color*/
+    opacity: 0.3; /*Change the opacity between 0 and 1*/
+}
+.text-area::-webkit-input-placeholder {
+    color: black; /*Change the placeholder color*/
+    opacity: 0.3; /*Change the opacity between 0 and 1*/
+}
