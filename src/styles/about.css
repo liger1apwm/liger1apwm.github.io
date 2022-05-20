@@ -1,0 +1,20 @@
+.about{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}
+
+.my-pic{
+    margin-left: 10%;
+    width: 70vh;
+    height: 80vh;
+    border-radius: 50px 150px;
+
+}
+
+.about-text{
+    margin-left: 5%;
+    color: rgb(255, 255, 255);
+    height: fit-content;
+    width: 90vh;
+}
