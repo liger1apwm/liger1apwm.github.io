@@ -17,7 +17,7 @@ const Home = () =>{
 
   return (
     <div>
-      <h3 className='home-heading'> Hey {userName},Welcome to Eric Aragundi Website</h3>
+      <h3 className='home-heading'> HEY {userName.toUpperCase()}!,WELCOME TO ERIC ARAGUNDI WEBSITE</h3>
       <div className="text-rotation-div">
         <TextRotation > </TextRotation>
       </div>

@@ -1,7 +1,14 @@
+@font-face {
+    font-family: 'HackerFont';
+    src: url(../fonts/Elite\ Hacker\ \(Corroded\).ttf);
+}
+
 .home-heading{
     font-size: 50px;
-    font-family: OCR A Std, monospace;
-    color: whitesmoke
+    height: fit-content;
+    margin-bottom: 2%;
+    font-family: 'HackerFont', monospace;
+    color: rgba(255, 255, 255, 0.836)
 }
 .heading{
     color: whitesmoke
